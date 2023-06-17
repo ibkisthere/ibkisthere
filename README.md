@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Kotlin-880ED4?&style=for-the-badge&logo=kotlin&logoColor=black" height="30"/></a>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="30"/></a>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="30"/></a>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=dart&logoColor=white" height="30"/></a>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" height="30"/></a>
 <br>
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=csharp&logoColor=white" height="30"/></a>
 <img src="https://img.shields.io/badge/dotnet-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="30"/></a>
@@ -64,6 +64,6 @@
  
 
 ## Github Stats  
-![MadeByIbukunoluwa's github most Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=MadeByIbukunoluwa&layout=compact&theme=tokyonight)
-[![MadeByIbukunoluwa's github stats](https://github-readme-stats.vercel.app/api?username=MadeByIbukunoluwa)](https://github.com/anuraghazra/github-readme-stats)
+![thisisibukunoluwa's github most Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisibukunoluwa&layout=compact&theme=tokyonight)
+[![thisisIbukunoluwa's github stats](https://github-readme-stats.vercel.app/api?username=thisisibukunoluwa)](https://github.com/anuraghazra/github-readme-stats)
 

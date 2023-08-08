@@ -14,10 +14,10 @@
 - 🌱 I’m currently learning C, C++ for low level programming 😊, also Math for Computer Science and Data Structures and Algorithms 😄
 
 
-- 👯 I’m looking to collaborate on any projects that uses Flutter, Kotlin , Swift also C-Sharp!
+- 👯 I’m looking to collaborate on any projects that uses Flutter, Kotlin , Swift amd go!
 
 
-- ❓ Ask me about anything related to Flutter, Kotlin , Android and other related technologies
+- ❓ Ask me about anything related to Flutter, Kotlin , Swift and other related technologies
 
 
 - ⚡ Fun fact: I enjoy reading books , exploring and learning new technologies 

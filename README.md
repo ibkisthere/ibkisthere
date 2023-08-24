@@ -66,5 +66,5 @@
 
 ## Github Stats  
 ![thisisibukunoluwa's github most Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisibukunoluwa&layout=compact&theme=tokyonight)
-[![thisisIbukunoluwa's github stats](https://github-readme-stats.vercel.app/api?username=thisisibukunoluwa)](https://github.com/anuraghazra/github-readme-stats)
+[![thisisIbukunoluwa's github stats](https://github-readme-stats.vercel.app/api?username=thisisibukunoluwa)](https://github.com/anuraghazra/github-readme-stats&langs_count=8)
 

@@ -8,13 +8,13 @@
 ### <div align="center">Hi there 👋 I'm Ibukunoluwa, a mobile developer </div>  
   
 
-- 🔭 I’m currently working on Flutter, Kotlin, Swift projects 
+- 🔭 I’m currently working on Flutter, Swift ang Golang projects 
   
   
 - 🌱 I’m currently learning C, C++ for low level programming 😊, also Math for Computer Science and Data Structures and Algorithms 😄
 
 
-- 👯 I’m looking to collaborate on any projects that uses Flutter, Kotlin , Swift amd go!
+- 👯 I’m looking to collaborate on any projects that uses Flutter, Kotlin , Swift, Golang!
 
 
 - ❓ Ask me about anything related to Flutter, Kotlin , Swift and other related technologies
@@ -30,10 +30,10 @@
 ## My Skill Set  
 
 <p align="center">
-<img src="https://img.shields.io/badge/Kotlin-880ED4?&style=for-the-badge&logo=kotlin&logoColor=black" height="30"/></a>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="30"/></a>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="30"/></a>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" height="30"/></a>
+<img src="https://img.shields.io/badge/Kotlin-880ED4?&style=for-the-badge&logo=kotlin&logoColor=black" height="30"/></a>
 <br>
 <img src=	"https://img.shields.io/badge/Go-00ADD8?style=flat-squaree&logo=go&logoColor=white" height="30"/> </a>
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=csharp&logoColor=white" height="30"/></a>

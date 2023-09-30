@@ -8,7 +8,7 @@
 ### <div align="center">Hi there 👋 I'm Ibukunoluwa, a mobile developer </div>  
   
 
-- 🔭 I’m currently working on Flutter, Swift ang Golang projects 
+- 🔭 I’m currently working on Flutter, Swift and Golang projects 
   
   
 - 🌱 I’m currently learning C, C++ for low level programming 😊, also Math for Computer Science and Data Structures and Algorithms 😄

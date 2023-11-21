@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning C, C++ for low level programming 😊, also Math for Computer Science and Data Structures and Algorithms 😄
 
 
-- 👯 I’m looking to collaborate on any projects that uses Flutter, Kotlin , Swift, Golang!
+- 👯 I’m looking to collaborate on any projects that uses Flutter, Swift, Golang!
 
 
 - ❓ Ask me about anything related to Flutter, Kotlin , Swift and other related technologies

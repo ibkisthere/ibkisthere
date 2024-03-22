@@ -33,14 +33,11 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="30"/></a>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="30"/></a>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" height="30"/></a>
-<img src="https://img.shields.io/badge/Kotlin-880ED4?&style=for-the-badge&logo=kotlin&logoColor=black" height="30"/></a>
 <br>
 <img src=	"https://img.shields.io/badge/Go-00ADD8?style=flat-squaree&logo=go&logoColor=white" height="30"/> </a>
-<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=csharp&logoColor=white" height="30"/></a>
-<img src="https://img.shields.io/badge/dotnet-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="30"/></a>
-<!-- <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="30"/></a> -->
 <br> 
-<img src="https://img.shields.io/badge/Typescript-0000FF?style=flat-square&logo=typescript&logoColor=white" height="30"/></a>
+<img src=	"https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30"/> </a>
+<!-- <img src=	"https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="30"/> </a> -->
 <br>
 </p>
 

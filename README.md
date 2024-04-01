@@ -35,11 +35,8 @@
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" height="30"/></a>
 <br>
 <img src=	"https://img.shields.io/badge/Go-00ADD8?style=flat-squaree&logo=go&logoColor=white" height="30"/> </a>
-<br>
 <img src=	"https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="30"/> </a>
-<br> 
 <img src=	"https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30"/> </a>
-<br>
 </p>
 
 ## Connect With Me 

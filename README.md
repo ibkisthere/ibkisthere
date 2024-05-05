@@ -5,19 +5,19 @@
 </div> 
 
 
-### <div align="center">Hi there 👋 I'm Ibukunoluwa, a mobile developer </div>  
+### <div align="center">Hi there 👋 I'm Ibukun (you can call me ibk), a Mobile App developer </div>  
   
 
 - 🔭 I’m currently working on Flutter and Swift projects 
   
   
-- 🌱 I’m currently learning C, C++ for low level programming 😊, also Math for Computer Science and Data Structures and Algorithms 😄
+- 🌱 I’m currently learning C, C++ for graphics programming 😊, also Math for Computer Science and Data Structures and Algorithms 😄
 
 
-- 👯 I’m looking to collaborate on any projects that uses Flutter, Swift, Golang!
+- 👯 I’m looking to collaborate on any projects that uses Flutter, Swift !
 
 
-- ❓ Ask me about anything related to Flutter, Kotlin , Swift and other related technologies
+- ❓ Ask me about anything related to Flutter, Swift and other related technologies
 
 
 - ⚡ Fun fact: I enjoy reading books , exploring and learning new technologies 

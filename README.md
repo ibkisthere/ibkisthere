@@ -9,9 +9,12 @@
   
 
 - 🔭 I’m currently working on Flutter and Swift projects 
+
+
+- 🦀 Rustacean by night
+
   
-  
-- 🌱 I’m currently learning C, C++ for graphics programming 😊, also Math for Computer Science and Data Structures and Algorithms 😄
+- 🌱 I’m currently learning C, C++ for graphics programming and yeah i love shaders! , also Math for Computer Science and Data Structures and Algorithms 😄
 
 
 - 👯 I’m looking to collaborate on any projects that uses Flutter, Swift !
